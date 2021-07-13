@@ -9,3 +9,7 @@ for i in range(a):
 
 print(b)
 fefefe
+
+
+
+machenkou
