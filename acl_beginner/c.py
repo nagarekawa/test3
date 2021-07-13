@@ -40,3 +40,6 @@ for i in uf.parents:
         con=con+1
 
 print(con-2)
+
+
+cmoyannzo
